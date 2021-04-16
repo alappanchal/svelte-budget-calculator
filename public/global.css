@@ -39,8 +39,7 @@ body {
   background: var(--mainGrey);
   line-height: 1.4;
   font-size: 1rem;
-  font-weight: 300;
-  background-color: #f00;
+  font-weight: 300;  
 }
 h1,
 h2,
